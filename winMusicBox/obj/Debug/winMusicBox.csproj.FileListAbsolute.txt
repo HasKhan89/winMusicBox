@@ -1,0 +1,10 @@
+C:\Users\HasKhan\Desktop\winMusicBox\winMusicBox\bin\Debug\winMusicBox.exe.config
+C:\Users\HasKhan\Desktop\winMusicBox\winMusicBox\bin\Debug\winMusicBox.exe
+C:\Users\HasKhan\Desktop\winMusicBox\winMusicBox\bin\Debug\winMusicBox.pdb
+C:\Users\HasKhan\Desktop\winMusicBox\winMusicBox\obj\Debug\winMusicBox.csprojResolveAssemblyReference.cache
+C:\Users\HasKhan\Desktop\winMusicBox\winMusicBox\obj\Debug\winMusicBox.Form1.resources
+C:\Users\HasKhan\Desktop\winMusicBox\winMusicBox\obj\Debug\winMusicBox.Form2.resources
+C:\Users\HasKhan\Desktop\winMusicBox\winMusicBox\obj\Debug\winMusicBox.Properties.Resources.resources
+C:\Users\HasKhan\Desktop\winMusicBox\winMusicBox\obj\Debug\winMusicBox.csproj.GenerateResource.Cache
+C:\Users\HasKhan\Desktop\winMusicBox\winMusicBox\obj\Debug\winMusicBox.exe
+C:\Users\HasKhan\Desktop\winMusicBox\winMusicBox\obj\Debug\winMusicBox.pdb
